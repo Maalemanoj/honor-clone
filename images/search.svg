@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>搜索</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="说明" transform="translate(-844.000000, -328.000000)">
+            <g id="搜索" transform="translate(844.000000, 328.000000)">
+                <g id="搜索---默认备份" transform="translate(2.100000, 2.700000)" stroke="#000000" stroke-width="1.575">
+                    <g id="编组" transform="translate(0.525000, 0.000000)">
+                        <path d="M15.5866613,7.87768875 C15.5866613,12.1352512 12.1350488,15.5865262 7.87782375,15.5865262 C3.62026125,15.5865262 0.16864875,12.1352512 0.16864875,7.87768875 C0.16864875,3.62012625 3.62026125,0.16885125 7.87782375,0.16885125 C12.1350488,0.16885125 15.5866613,3.62012625 15.5866613,7.87768875 Z" id="Stroke-1"></path>
+                        <line x1="18.6469088" y1="18.6007387" x2="13.3515338" y2="13.3053638" id="Stroke-3" stroke-linecap="round"></line>
+                    </g>
+                </g>
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
